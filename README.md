@@ -10,4 +10,3 @@ Parameters `y` and `z` are any two numbers
 Your function should have five conditionals that perform the four different mathematical operations depending on `x` (add, subtract, multiply, divide)
 
 Invoke your function, pass in your values, and console.log `output`
-
